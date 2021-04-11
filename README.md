@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samarkalra
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning VueJs
+- 👀 I’m interested in Web & Mobile App Development
+- 🌱 I’m currently learning React and React-native
 - 📫 How to reach me skalra@ex2india.com
 
 <!---
