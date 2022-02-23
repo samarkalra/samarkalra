@@ -17,7 +17,7 @@
 
 ##  🛠 Tech Stack
 
-<p align="center"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" alt="TypeScript" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="React" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" alt="Redux" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux-saga.svg" alt="Redux Saga" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="56" height="56"/> <!--<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="c" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/> -->
+<p align="center"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" alt="TypeScript" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="React" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" alt="Redux" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux-saga.svg" alt="Redux Saga" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="56" height="56"/> <!--<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="c" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/>
 
 <br>
 
@@ -26,7 +26,12 @@
 <a href="https://github.com/samarkalra" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+ 
 <a href="https://in.linkedin.com/in/samar-kalra" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ 
+<a href="https://expo.dev/@samarkalra?tab=snacks" target="_blank">
+<img src="https://img.shields.io/badge/expo-%23FFFFFF?&style=for-the-badge&logo=expo&logoColor=black" alt=expo style="margin-bottom: 5px;" />
 </a>
 </div> 
