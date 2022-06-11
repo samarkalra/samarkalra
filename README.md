@@ -1,4 +1,4 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there&nbsp;
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px" height="40px"> Hi there&nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarkalra" alt="samarkalra" /> </p>
 
