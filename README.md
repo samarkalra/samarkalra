@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarkalra" alt="samarkalra" /> </p>
 
-#### I am a Mobile App Developer exploring React Native and React, improving my developer's skills and building awesome applications.
+#### I am a Mobile App Developer exploring SwiftUI, improving my developer's skills and building awesome applications.
  <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="400px" />
 
@@ -17,7 +17,16 @@
 
 ##  🛠 Tech Stack
 
-<p align="center"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" alt="TypeScript" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="React" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" alt="Redux" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux-saga.svg" alt="Redux Saga" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="56" height="56"/> <!-- <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="c" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/> -->
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="56" height="56"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" alt="TypeScript" width="56" height="56"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="React" width="56" height="56"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" alt="Redux" width="56" height="56"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux-saga.svg" alt="Redux Saga" width="56" height="56"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="56" height="56"/>  
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/swift.svg" alt="Git" width="56" height="56"/>  
+<!-- <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="c" width="56" height="56"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/> -->
 
 <br>
 
