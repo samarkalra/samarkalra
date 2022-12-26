@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarkalra" alt="samarkalra" /> </p>
 
-#### I am a Mobile App Developer exploring SwiftUI, improving my developer's skills and building awesome applications.
+#### I am a Mobile App Developer exploring React, React Native and improving my developer's skills and building awesome applications.
  <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="400px" />
 
